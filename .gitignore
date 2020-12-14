@@ -33,3 +33,5 @@ woocommerce-gateway-amazon-payments-advanced.zip
 docker/data
 docker/wordpress
 docker/logs
+woocommerce-gateway-amazon-pay.code-workspace
+

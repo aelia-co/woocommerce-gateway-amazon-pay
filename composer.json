@@ -15,7 +15,5 @@
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "5.7.27",
-        "woocommerce/woocommerce-sniffs": "0.0.8"
     }
 }
